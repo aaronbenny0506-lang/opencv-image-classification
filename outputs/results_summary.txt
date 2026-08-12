@@ -1,0 +1,10 @@
+Image Classification Results
+=============================
+
+Dataset: sklearn digits (1797 images, classes 0-9)
+Train/Test split: 1437 / 360 (80/20, stratified)
+
+SVM accuracy: 0.9806
+kNN accuracy: 0.9639
+
+Best model: SVM
